@@ -1,3 +1,3 @@
-module github.com/zelenin/go-tdlib
+module github.com/ShayperCool/go-tdlib
 
 go 1.12
